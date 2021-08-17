@@ -6,7 +6,25 @@
     <description>Recent content in Blogs on Farhan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 18:31:14 +0100</lastBuildDate><atom:link href="https://fb0801.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 19:25:11 +0100</lastBuildDate><atom:link href="https://fb0801.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drupal</title>
+      <link>https://fb0801.github.io/blog/drupal/</link>
+      <pubDate>Tue, 17 Aug 2021 19:25:11 +0100</pubDate>
+      
+      <guid>https://fb0801.github.io/blog/drupal/</guid>
+      <description>Drupal a CMS (Content Management System) which can be used to develop any type of application and does not require any programming for the front or backend.</description>
+    </item>
+    
+    <item>
+      <title>SASS</title>
+      <link>https://fb0801.github.io/blog/sass/</link>
+      <pubDate>Tue, 17 Aug 2021 18:35:23 +0100</pubDate>
+      
+      <guid>https://fb0801.github.io/blog/sass/</guid>
+      <description>Not to be confused for SaaS (software as a service), this technology is like the updated version of CSS which you can use along side Bootstrap as well as other tools and is not that complicated to understand if you understand CSS.</description>
+    </item>
+    
     <item>
       <title>Welcome</title>
       <link>https://fb0801.github.io/blog/welcome/</link>
