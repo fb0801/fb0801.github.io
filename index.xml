@@ -6,7 +6,16 @@
     <description>Recent content on Farhan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 19:25:11 +0100</lastBuildDate><atom:link href="https://fb0801.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 12:03:27 +0100</lastBuildDate><atom:link href="https://fb0801.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://fb0801.github.io/blog/python/</link>
+      <pubDate>Thu, 26 Aug 2021 12:03:27 +0100</pubDate>
+      
+      <guid>https://fb0801.github.io/blog/python/</guid>
+      <description>Programming in Python and creating your own app or software can be fun and difficult. A high level programming language, which can be used to develop websites, GUI (Graphical User Interfaces), games, working alongside other programming languages and much more.</description>
+    </item>
+    
     <item>
       <title>Drupal</title>
       <link>https://fb0801.github.io/blog/drupal/</link>
